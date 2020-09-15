@@ -18,10 +18,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 🤔 Status do projeto:
+## Para rodar a aplicação
 
-- O Front-end da aplicação está em desenvolvimento...
+> OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
 
+Execute ```npm install``` nas pastas backend, frontend e mobile, para instalar as dependências.
+
+Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. Acesse via **localhost:3000**.
+
+Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, leia o QR Code no seu celular e utilize o aplicativo <img src="imgs/expo.png" alt="rocketseat" height="20"> Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
 
 ---
 
