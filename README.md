@@ -30,7 +30,7 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 
 ---
 
-**&copy; <img src="https://github.com/igorzs/omnistack-be-the-hero/blob/master/imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
+**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 **Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
 
