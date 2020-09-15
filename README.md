@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="" title="" src="https://github.com/igorzs/omnistack-be-the-hero/blob/master/imgs/logo.svg">
+    <img alt="" title="" src="imgs/logo.svg">
 </h1>
 
 <h3 align="center">Conectando pessoas com ONGS e seus casos.</h3>
