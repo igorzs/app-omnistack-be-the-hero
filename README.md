@@ -34,7 +34,7 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 <br />
 <img src="/imgs/print2.png" >
 <br />
-<p align="center"> <img alt="" title="" src="<img src="/imgs/betheheromobile.png" >"> </p>
+<p align="center"> <img alt="" title="" src="/imgs/betheheromobile.png"> </p>
 
 ---
 
