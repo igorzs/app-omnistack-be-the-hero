@@ -6,7 +6,7 @@
 <h3 align="center">Conectando pessoas com ONGS e seus casos.</h3>
 
 ---
-## 💻 Projeto:
+## 💻 Visão Geral:
 <p align="center">Usando o poder de uma stack poderosa, a 11ª edição da Semana OmniStack, ocorrida entre 23/03 e 27/03 de 2020, trouxe o projeto <b>Be The Hero</b> que visa conectar ONGS e pessoas que tem disponibilidade de ajudar, encontrando casos, possibilitando a comunicação e fornecendo doações.</p>
 
 
