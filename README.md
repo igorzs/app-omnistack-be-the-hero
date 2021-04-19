@@ -30,12 +30,11 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 
 ## Imagens do projeto
 
-<img src="https://github.com/igorzs/app-omnistack-be-the-hero/blob/master/imgs/print1.png" >
+<img src="/imgs/print1.png" >
 <br />
-<img src="https://github.com/igorzs/app-omnistack-be-the-hero/blob/master/imgs/print2.png" >
+<img src="/imgs/print2.png" >
 <br />
-<img src="https://github.com/igorzs/app-omnistack-be-the-hero/blob/master/imgs/betheheromobile.png" >
-
+<p align="center"> <img alt="" title="" src="<img src="/imgs/betheheromobile.png" >"> </p>
 
 ---
 
