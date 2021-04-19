@@ -28,6 +28,15 @@ Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. 
 
 Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
 
+## Imagens do projeto
+
+<img src="https://github.com/igorzs/app-omnistack-be-the-hero/blob/master/imgs/print1.png" >
+<br />
+<img src="https://github.com/igorzs/app-omnistack-be-the-hero/blob/master/imgs/print2.png" >
+<br />
+<img src="https://github.com/igorzs/app-omnistack-be-the-hero/blob/master/imgs/betheheromobile.png" >
+
+
 ---
 
 **&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
